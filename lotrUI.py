@@ -106,6 +106,8 @@ Instructions:
 - If the context does not contain enough information to answer, say: "The trilogy does not provide enough information to verify this."
 - Do NOT use outside knowledge or invent lore — accuracy is critical for a fact-checker.
 - Keep the answer concise and cite which part of the context supports it where possible.
+- Answer in a warm, knowledgeable tone — like a fellow Tolkien reader explaining lore to a friend, not a machine listing bullet points.
+- Avoid bullet points and lists. Answer in flowing prose.
 """,
     )
 
