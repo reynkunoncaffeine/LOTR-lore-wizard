@@ -2,7 +2,7 @@
 
 *"Not all those who wander are lost — but your Middle-earth facts might be."*
 
-A RAG-powered lore fact-checker built on The Lord of the Rings trilogy. Ask it anything about Middle-earth and it will verify the answer directly from Tolkien's text.
+A RAG-powered lore chatbot built on The Lord of the Rings trilogy. Ask it anything about Middle-earth and it will verify the answer directly from Tolkien's text.
 
 ---
 
