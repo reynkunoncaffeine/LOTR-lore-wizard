@@ -22,7 +22,7 @@ Place your `LOTR.pdf` in the project root.
 
 Create a `.env` file:
 ```
-GEMINI_API_KEY=your-key-here
+GEMINI_API_KEY="your-key-here"
 ```
 
 **4. Install dependencies**
@@ -32,11 +32,15 @@ pip install -r requirements.txt
 
 **5. Build the vector database**
 
-Run `app.ipynb` top to bottom. This only needs to be done once — the database is saved to `lotr_db/`.
+Run `backend.ipynb` top to bottom. This only needs to be done once — the database is saved to `lotr_db/`.
 
 **6. Launch**
 ```
-streamlit run chatbot.py
+streamlit run simpleUI.py
+```
+OR
+```
+streamlit run lotrUI.py
 ```
 
 ---
