@@ -36,11 +36,11 @@ Run `backend.ipynb` top to bottom. This only needs to be done once — the datab
 
 **6. Launch**
 ```
-streamlit run simpleUI.py
+streamlit run simpleUI.py  #minimal UI
 ```
 OR
 ```
-streamlit run lotrUI.py
+streamlit run lotrUI.py    #lotr themed UI
 ```
 
 ---
